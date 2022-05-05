@@ -1,1 +1,4 @@
-Replace this with your name, and include a header.
+# Chelsey van 't Kruijs
+## 27-02-1998
+### International Business
+#### Finance
